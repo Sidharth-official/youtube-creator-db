@@ -6,18 +6,6 @@
 
 ---
 
-## 👥 Team Members
-
-| # | Name | Role |
-|---|------|------|
-| 1 | Sidharth Gupta | Team Lead / Schema Design |
-| 2 | Aditya Koul | EER Diagram & Normalization |
-| 3 | Ahshan Khan | DDL & Data Population |
-| 4 | Aradhya Sharma | Query Writing & Analytics |
-| 5 | Daksh | Report Writing & Documentation |
-
----
-
 ## 📁 Repository Structure
 
 ```
