@@ -6,18 +6,6 @@
 
 ---
 
-## Team
-
-| Name | Enrollment |
-|------|------------|
-| Sidharth Gupta | — |
-| Aditya Koul | — |
-| Ahshan Khan | — |
-| Aradhya Sharma | — |
-| Daksh | — |
-
----
-
 ## Repository Structure
 
 ```
